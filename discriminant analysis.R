@@ -1,4 +1,4 @@
-# Lab II - Discriminant Analysis and Model Selection ####
+# Discriminant Analysis and Model Selection ####
 
 ## LDA ####
 library(ElemStatLearn)
